@@ -1,1 +1,3 @@
-# NeuroAI-2024
+# Biologically-plausible learning rules with SNNs and MLPs 
+
+This repository contains the work for the summer projects at NeuroAI Summer School 2024 at Neuromatch Academy. In the project, we were interested in how different biologically plausible learning rules (Hebbian, Feedback alignment, and Kolen Pollack) behave on different types of neural architectures (Spiking Neural Networks, Multi-layer Perceptrons and Komolgorov Arnold Neural Networks). We aimed to understand what learning rules would be more suitable for what neural architectures in terms of learning performance on MNIST dataset when performing 10-class classification. Finally, the project investigate the reprentational geometry of these learning rules when we embeded the representations of 10 digits into 2D space after training the models and compared the representational similarity with the same learning rule between MLP and SNN. 
